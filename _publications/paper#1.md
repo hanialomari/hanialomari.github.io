@@ -1,7 +1,7 @@
 ---
 title: "Emodet at semeval-2019 task 3: Emotion detection in text using deep learning"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/paper#1
 excerpt: ''
 date: 2018-06-01
 venue: 'SemEval at Association for Computational Linguistics'
