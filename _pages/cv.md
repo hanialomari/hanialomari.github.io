@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, University, 2012
-* M.S. in Jekyll, asd University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, Jordan University of Science and Technology, 2020
+* M.S. in Data Science, Jordan University of Science and Technology University, 2022
+#* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
 ======
