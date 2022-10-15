@@ -3,7 +3,7 @@ title: "Emodet at semeval-2019 task 3: Emotion detection in text using deep lear
 collection: publications
 permalink: /publication/paper#1
 excerpt: ''
-date: 2018-06-01
+date: 2019-06-01
 venue: 'SemEval at Association for Computational Linguistics'
 paperurl: ''
 citation: ''
