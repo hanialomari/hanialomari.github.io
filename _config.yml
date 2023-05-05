@@ -11,9 +11,9 @@ title                    : "Hani Bashar Al-Omari"
 title_separator          : "-"
 name                     : &name "Hani"
 description              : &description "Data Scientist and Natural Language Processing Expert."
-url                      : https://hani.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://hanialomari.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "hanialomari/hani.github.io"
+repository               : "hanialomari/hanialomari.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -87,33 +87,33 @@ author:
   employer         :  
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Ft_qTcwAAAAJ&hl=en"
-  email            : "hani@vt.edu"
+  email            : "hbalomari19@vit.just.edu.jo"
   researchgate     : "https://www.researchgate.net/profile/Hani-Al-Omari-2"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "RatinoMest/"
+  facebook         : "https://www.facebook.com/RatinoMest/"
   foursquare       :
   github           : "https://github.com/hanialomari"
   google_plus      :
   keybase          :
-  instagram        : "hani_b_alomari/"
+  instagram        : "https://www.instagram.com/hani_b_alomari/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "hani-al-omari-50727289/"
+  linkedin         : "https://www.linkedin.com/in/hani-al-omari-50727289/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            : "razormest1997/"
+  steam            : "https://steamcommunity.com/id/razormest1997/"
   tumblr           :
   twitter          : "alomarihani1997"
   vine             :
   weibo            :
   xing             :
-  youtube          : "UCpQI2t9f05I_BbO37EUoGKg"
+  youtube          : "https://www.youtube.com/channel/UCpQI2t9f05I_BbO37EUoGKg"
   wikipedia        :
   discord          : "discordapp.com/users/RatinoMest#3670"
 
