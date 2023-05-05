@@ -41,29 +41,17 @@ Skills
 * Operating Systems: Mac, Windows, Linux
 * Teamwork and Independent work
 * Languages: English, Arabic (Native)
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  * JUST: 
+    * 	CIs201: INTRODUCTION TO WEB DESIGN 
+    *   CIs724: STRUCTURE AND APPLICATIONS OF HEALTH INFORMATION SYSTEMS
+    *   CIs733: COMPUTATIONAL LINGUISTICS
+    *   CIs735: DEEP LEARNING
+  * VT: 
+    *   CS-5824/ECE-5424 Advanced Machine Learning by [Dr. Ming Jin](http://www.jinming.tech/)
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
-
 References
 ======
 * Prof. Rehab Duwairi
