@@ -44,12 +44,12 @@ Skills
   
 Teaching
 ======
-  * JUST: 
+  * Jordan University of Science and Technology: 
     * 	CIs201: INTRODUCTION TO WEB DESIGN 
     *   CIs724: STRUCTURE AND APPLICATIONS OF HEALTH INFORMATION SYSTEMS
     *   CIs733: COMPUTATIONAL LINGUISTICS
     *   CIs735: DEEP LEARNING
-  * VT: 
+  * Virginia Tech: 
     *   CS-5824/ECE-5424 Advanced Machine Learning by [Dr. Ming Jin](http://www.jinming.tech/)
   
 References
