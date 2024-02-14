@@ -7,7 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
+<<<<<<< HEAD
 title                    : "Hani Al-Omari"
+=======
+title                    : "Hani Bashar Al-Omari"
+>>>>>>> d8441024539d9db6f0f0cc4530bf7ff481cd0a8d
 title_separator          : "-"
 name                     : &name "Hani"
 description              : &description "Data Scientist and Natural Language Processing Expert."
