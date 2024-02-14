@@ -1,7 +1,6 @@
 ---
 permalink: /
-title: "Hani Alomari's Homepage"
-excerpt: "About me"
+title: "Hani Alomari's"
 author_profile: true
 redirect_from: 
   - /about/
