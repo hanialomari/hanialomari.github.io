@@ -18,7 +18,7 @@ Conference Papers
 
 2. Ayat Abedalla, Ali Fadel, Ibraheem Tuffaha, **Hani Al-Omari**, Mohammad Omari, Malak Abdullah, and Mahmoud Al-Ayyoub. "[MTRecS-DLT: multi-modal transport recommender system using deep learning and tree models.](https://www.researchgate.net/profile/Ali-Fadel-4/publication/337985716_MTRecS-DLT_Multi-Modal_Transport_Recommender_System_using_Deep_Learning_and_Tree_Models/links/5e7924b84585158bd501afe2/MTRecS-DLT-Multi-Modal-Transport-Recommender-System-using-Deep-Learning-and-Tree-Models.pdf)" In 2019 Sixth International Conference on Social Networks Analysis, Management and Security (SNAMS), pp. 274-278. IEEE, 2019.
 
-3. Zhecan Wang, Junzhang Liu, Chia-Wei Tang, Hani Alomari, Anushka Sivakumar, Rui Sun, Wenhao Li, Md. Atabuzzaman, Hammad Ayyubi, Haoxuan You, Alvi Ishmam, Kai-Wei Chang, Shih-Fu Chang, Chris Thomas. ["JourneyBench: A Challenging One-Stop Vision-Language Understanding Benchmark of Generated Images"](https://journeybench.github.io/), Neurips2024-**(Under-Review)**
+3. Zhecan Wang, Junzhang Liu, Chia-Wei Tang, **Hani Alomari**, Anushka Sivakumar, Rui Sun, Wenhao Li, Md. Atabuzzaman, Hammad Ayyubi, Haoxuan You, Alvi Ishmam, Kai-Wei Chang, Shih-Fu Chang, Chris Thomas. ["JourneyBench: A Challenging One-Stop Vision-Language Understanding Benchmark of Generated Images"](https://journeybench.github.io/), Neurips2024-**(Under-Review)**
 
 Workshop Papers
 ======
