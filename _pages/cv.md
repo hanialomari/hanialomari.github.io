@@ -65,24 +65,6 @@ Research Experience
       * Collaborated with cross-functional teams to integrate findings into larger research initiatives, contributing to published papers and conference presentations.
       * Played a key role in grant writing and research proposals, helping secure funding for ongoing and future projects.
 
-Skills
-======
-* Machine Learning: Deep Learning, Computer Vision, NLP, and Data analysis.
-* Generative AI Solutions Architect (Large Language Models): Building different chatbots trained on enterprise data using open-sourced LLMs (Hugging Face) or OpenAI’s GPT models.
-* Programming: Python, Java, R, C++, Visual Basic, HTML, Android
-* Strong analytical and problem-solving skills with a critical and creative mindset.
-* Excellent communication and interpersonal skills for effective teamwork and stakeholder relationships.
-* Languages: English, Arabic (Native)
-
-softwear
-======
-* Tableau
-* Octave
-* MATLAB
-* Android Studio
-* Jupyter notebook
-* Operating Systems: Mac, Windows, Linux
-
 Teaching
 ======
   * Virginia Tech: 
@@ -95,6 +77,26 @@ Teaching
     *   CIs724: STRUCTURE AND APPLICATIONS OF HEALTH INFORMATION SYSTEMS
     *   CIs733: COMPUTATIONAL LINGUISTICS
     *   CIs735: DEEP LEARNING
+
+
+Skills
+======
+* Machine Learning: Deep Learning, Computer Vision, NLP, and Data analysis.
+* Generative AI Solutions Architect (Large Language Models): Building different chatbots trained on enterprise data using open-sourced LLMs (Hugging Face) or OpenAI’s GPT models.
+* Programming: Python, Java, R, C++, Visual Basic, HTML, Android
+* Strong analytical and problem-solving skills with a critical and creative mindset.
+* Excellent communication and interpersonal skills for effective teamwork and stakeholder relationships.
+* Languages: English, Arabic (Native)
+
+Softwear
+======
+* Tableau
+* Octave
+* MATLAB
+* Android Studio
+* Jupyter notebook
+* Operating Systems: Mac, Windows, Linux
+
 
 References
 ======
