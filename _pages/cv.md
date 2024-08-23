@@ -22,7 +22,7 @@ Education
   * GPA: 4.04/4.2 (Rank First)
     * [Transcript & Ranking](https://drive.google.com/file/d/1uE6p6oAQCDFjXBeMEBBbrBJi3Cn_RfFC/view?usp=sharing)
 
-Research Experience
+Research and Teaching Experience
 ======
 
 * Virginia Tech
