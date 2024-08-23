@@ -15,7 +15,7 @@ Education
 * M.S. in Computer Information System, Jordan University of Science and Technology, 2020 - 2022
 * B.S. in Computer Science, Jordan University of Science and Technology, 2016 - 2020
 
-Work experience
+Research Experience
 ======
 
 * Virginia Tech
@@ -77,24 +77,31 @@ softwear
 
 Teaching
 ======
+  * Virginia Tech: 
+    *   CS-5824/ECE-5424 Advanced Machine Learning by [Dr. Ming Jin](http://www.jinming.tech/)
+    *   CS1064 Introduction to Programming in Python by [Dr. John Wenskovitch](https://sanghani.cs.vt.edu/person/john-wenskovitch/)
+    *   CS5914-AI Tools in Software Development by [Dr. Steven Atkinson](https://www.linkedin.com/in/satkinson/)
+
   * Jordan University of Science and Technology: 
     * 	CIs201: INTRODUCTION TO WEB DESIGN 
     *   CIs724: STRUCTURE AND APPLICATIONS OF HEALTH INFORMATION SYSTEMS
     *   CIs733: COMPUTATIONAL LINGUISTICS
     *   CIs735: DEEP LEARNING
-  * Virginia Tech: 
-    *   CS-5824/ECE-5424 Advanced Machine Learning by [Dr. Ming Jin](http://www.jinming.tech/)
-    *   CS1064 Introduction to Programming in Python by [Dr. John Wenskovitch](https://sanghani.cs.vt.edu/person/john-wenskovitch/)
-    *   CS5914-AI Tools in Software Development by [Dr. Steven Atkinson](https://www.linkedin.com/in/satkinson/)
-  
+
 References
 ======
-* Prof. Rehab Duwairi
+* [Dr. Chris Thomas](https://people.cs.vt.edu/chris/)
+  * 378 Data and Decision Sciences Building, 727 Prices Fork Rd, Blacksburg, VA 24060
+  * Email: Chris@cs.vt.edu
+
+* [Prof. Rehab Duwairi](https://www.just.edu.jo/~rehab/)
   * Jordan University of Science and Technology, IRBID, JORDAN
   * Email: rehab@just.edu.jo
-* Dr. Malak Abdullah
+
+* [Dr. Malak Abdullah](https://sites.google.com/view/malak-abdullah )
   * Jordan University of Science and Technology, IRBID, JORDAN
   * Email: mabdullah@just.edu.jo
-* Prof. Amer Al-badarneh
+
+* [Prof. Amer Al-badarneh](https://www.linkedin.com/in/amer-al-badarneh/?originalSubdomain=jo )
   * Jordan University of Science and Technology, IRBID, JORDAN
   * Email: mabdullah@just.edu.jo
