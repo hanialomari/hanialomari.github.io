@@ -17,21 +17,23 @@ Education
 
 Work experience
 ======
-* February 2020 - November 2022: Graduate Research Assistant
-  * Jordan University of Science and Technology
-  * Duties included: Data analysis, data gathering, questionnaire design, machine learning and deep learning architectures, transformers models, and data collection.
 
-* February 2020 - January 2022: Graduate Teaching Assistant
-  * Jordan University of Science and Technology
-  * Duties included: Reinforce lessons, help teachers with recordkeeping, supervise students, conduct labs, and assist faculty members.
+* Virginia Tech
+  * March 2023 - (Present): Graduate Research Assistant
+    * Duties included: Reinforce lessons, help the instructor with record tracking, supervise students during office hours, and design programming assignments.
+    
+  * February 2023 - (Present): Graduate Teaching Assistant
+    * Duties included: Reinforce lessons, help the instructor with record tracking, supervise students during office hours, and design programming assignments.
 
-* June 2019 - September 2019: Research Assistant Internship
-  * Jordan University of Science and Technology
-  * Duties included: Participation in NLP4IF 2019 and KDD Cup 2019, building deep learning models, and debugging deep learning models.
+* Jordan University of Science and Technology
+  * June 2019 - September 2019: Research Assistant Internship
+    * Duties included: Participation in NLP4IF 2019 and KDD Cup 2019, building deep learning models, and debugging deep learning models.
 
-* February 2023 - May 2023: Graduate Teaching Assistant
-  * Virginia Tech
-  * Duties included: Reinforce lessons, help the instructor with record tracking, supervise students during office hours, and design programming assignments.
+  * February 2020 - January 2022: Graduate Teaching Assistant
+    * Duties included: Reinforce lessons, help teachers with recordkeeping, supervise students, conduct labs, and assist faculty members.
+
+  * February 2020 - November 2022: Graduate Research Assistant
+    * Duties included: Data analysis, data gathering, questionnaire design, machine learning and deep learning architectures, transformers models, and data collection.
 
 Skills
 ======
@@ -51,6 +53,8 @@ Teaching
     *   CIs735: DEEP LEARNING
   * Virginia Tech: 
     *   CS-5824/ECE-5424 Advanced Machine Learning by [Dr. Ming Jin](http://www.jinming.tech/)
+    *   CS1064 Introduction to Programming in Python by [Dr. John Wenskovitch](https://sanghani.cs.vt.edu/person/john-wenskovitch/)
+    *   CS5914-AI Tools in Software Development by [Dr. Steven Atkinson](https://www.linkedin.com/in/satkinson/)
   
 References
 ======
