@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, Jordan University of Science and Technology, 2016 - 2020
-* M.S. in Computer Information System, Jordan University of Science and Technology, 2020 - 2022
 * Ph.D. in Computer Science, Virginia Polytechnic Institute and State University, 2023 - (ongoing)
+* M.S. in Computer Information System, Jordan University of Science and Technology, 2020 - 2022
+* B.S. in Computer Science, Jordan University of Science and Technology, 2016 - 2020
 
 Work experience
 ======
