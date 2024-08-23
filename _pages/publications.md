@@ -30,4 +30,4 @@ Workshop Papers
 
 Journal Papers
 ======
-**Hani Al-Omari**, and Rehab Duwairi. ["So2al-wa-Gwab: A New Arabic Question-Answering Dataset Trained on Answer Extraction Models."](https://dl.acm.org/doi/pdf/10.1145/3605550?casa_token=hQX5a7apbVwAAAAA:96PHwBbIcfZxMiwv18eu_tUVP1yiZva8jU95aHzOzvQ4cCbWncFfF6Edse0E7hPcls5qWbwvwtBAnw) ACM Transactions on Asian and Low-Resource Language Information Processing 22.8 (2023): 1-21.
+1. **Hani Al-Omari**, and Rehab Duwairi. ["So2al-wa-Gwab: A New Arabic Question-Answering Dataset Trained on Answer Extraction Models."](https://dl.acm.org/doi/pdf/10.1145/3605550?casa_token=hQX5a7apbVwAAAAA:96PHwBbIcfZxMiwv18eu_tUVP1yiZva8jU95aHzOzvQ4cCbWncFfF6Edse0E7hPcls5qWbwvwtBAnw) ACM Transactions on Asian and Low-Resource Language Information Processing 22.8 (2023): 1-21.
