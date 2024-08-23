@@ -14,6 +14,7 @@ Education
 * Ph.D. in Computer Science, Virginia Polytechnic Institute and State University, 2023 - (ongoing)
   * GPA: 4.0/4.0
     * [Transcript-last_ver](https://drive.google.com/file/d/1DMaNACtwJKgppGwDyo0A2ifBlGWIczoU/view?usp=sharing)
+  * Passed the PhD qualifying process on January 19, 2024.
 * M.S. in Computer Information System, Jordan University of Science and Technology, 2020 - 2022
   * GPA: 4.26/4.3
     * [Transcript](https://drive.google.com/file/d/1H1aWRGRLNupqk4io1L7nP1t1O0T4I1rp/view?usp=sharing)
