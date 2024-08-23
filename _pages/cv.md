@@ -87,7 +87,7 @@ Skills
 * Excellent communication and interpersonal skills for effective teamwork and stakeholder relationships.
 * Languages: English, Arabic (Native)
 
-Softwear
+Software
 ======
 * Tableau
 * Octave
