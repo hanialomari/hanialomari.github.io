@@ -21,7 +21,6 @@ Education
 * B.S. in Computer Science, Jordan University of Science and Technology, 2016 - 2020
   * GPA: 4.04/4.2 (Rank First)
     * [Transcript & Ranking](https://drive.google.com/file/d/1uE6p6oAQCDFjXBeMEBBbrBJi3Cn_RfFC/view?usp=sharing)
-    * [Rank]()
 
 Research Experience
 ======
