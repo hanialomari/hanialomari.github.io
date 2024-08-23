@@ -20,25 +20,42 @@ Work experience
 
 * Virginia Tech
   * March 2023 - (Present): Graduate Research Assistant
-    * leading two project about cross-model information retrieval between different modalites (e.g. image, text, video, audio, etc.), where I am trying to enhance the embedding representation for nonliteral connection between the modalities.
-      * Develop the enhanced cross-modally aligned representations that preserve semantic richness and modality-specific information.
-      * Develop novel model architectures and losses to ensure semantic diversity in the representations between different modalities.
-    * Helping with a hosptial project related to state-of-the-art deep learning models for image classifications for different medical tasks.
-    * Joined a project realated to constructing a new benchmark that it designed to assess the model's fine-grained multimodal reasoning abilities across five different tasks and requires fine-grained multimodal reasoning in unusual imaginary scenarios where language bias and holistic image gist are insufficient.
-      * [JourneyBench](https://journeybench.github.io/)
+    * Leading two projects focused on cross-modal information retrieval across diverse modalities (e.g., image, text, video, audio) aimed at enhancing embedding representations for capturing non-literal and nuanced connections between modalities.
+      * Developed advanced cross-modal representations that effectively preserve both semantic richness and modality-specific details, enabling more accurate retrieval and understanding across different data types.
+      * Designed and implemented novel model architectures and loss functions to promote semantic diversity in representations, preventing redundancy and ensuring each modality maintains its unique characteristics while facilitating cross-modal alignment.
+    * Collaborated on a hospital project utilizing state-of-the-art deep learning models for image classification across various medical tasks.
+      * Contributed to the development and fine-tuning of deep learning architectures to enhance accuracy and reliability in medical imaging tasks.
+    * Participated in a pioneering project to create a new benchmark, [JourneyBench](https://journeybench.github.io/), designed to evaluate models' fine-grained multimodal reasoning abilities across five distinct tasks.
+      * Conducted benchmarking of state-of-the-art models across different tasks, specifically focusing on leveraging large language models (LLMs) for multiple-choice question answering (MCQA) problems.
+      * Assisted with dataset annotation and contributed to the design of key figures for the research paper, ensuring clear visual representation of the benchmark's capabilities and findings.
+    * 
     
   * February 2023 - (Present): Graduate Teaching Assistant
-    * Reinforce lessons, help the instructor with record tracking, supervise students during office hours, and design programming assignments.
+    * Assisted the instructor in planning and delivering course material for undergraduate computer science courses, including lectures, labs, and discussion sessions.
+    * Developed and graded assignments, exams, and lab exercises, providing constructive feedback to students to help them improve their understanding of key concepts.
+    * Supervised and mentored a diverse group of students during office hours and lab sessions, offering personalized support to enhance their learning experience and address individual challenges.
+    * Collaborated with faculty members to integrate new teaching methods and technologies, such as interactive coding platforms and virtual labs, to enhance student engagement and learning outcomes.
+    * Organized and led supplemental instruction sessions for students struggling with core topics, fostering a collaborative learning environment and encouraging peer-to-peer learning.
 
 * Jordan University of Science and Technology
   * June 2019 - September 2019: Research Assistant Internship
-    * Participation in NLP4IF 2019 and KDD Cup 2019, building deep learning models, and debugging deep learning models.
+    * Engaged in competitive research projects such as NLP4IF 2019 and KDD Cup 2019, focusing on building and refining deep learning models for natural language processing and data mining tasks.
+      * Developed and optimized various deep learning architectures, experimenting with novel techniques to enhance model performance on large datasets.
+      * Actively participated in debugging and troubleshooting model issues, collaborating with team members to identify bottlenecks and improve model efficiency and accuracy.
 
   * February 2020 - January 2022: Graduate Teaching Assistant
-    * Reinforce lessons, help teachers with recordkeeping, supervise students, conduct labs, and assist faculty members.
+    * Assisted faculty in delivering lectures and conducting laboratory sessions for various courses in computer science and engineering, including programming, data structures, and algorithms.
+    * Designed and implemented interactive lab exercises and projects, encouraging hands-on learning and practical application of theoretical knowledge.
+    * Evaluated student performance through assessments, exams, and project evaluations, providing detailed feedback to facilitate improvement.
+    * Conducted review sessions and created study guides to help students prepare for exams, ensuring a comprehensive understanding of course material.
+    * Utilized online learning management systems to manage course materials, track student progress, and communicate effectively with students regarding their performance and areas for improvement.
 
   * February 2020 - November 2022: Graduate Research Assistant
-    * Data analysis, data gathering, questionnaire design, machine learning and deep learning architectures, transformers models, and data collection.
+    * Led and contributed to multiple research projects focusing on data analysis, machine learning, and deep learning, including the development of transformer models for natural language processing and computer vision tasks.
+      * Conducted extensive data gathering and analysis to support research objectives, including designing and distributing questionnaires, preprocessing datasets, and performing statistical analysis.
+      * Developed and implemented machine learning and deep learning models, including transformers, to address various research questions, optimizing model performance through rigorous experimentation and hyperparameter tuning.
+      * Collaborated with cross-functional teams to integrate findings into larger research initiatives, contributing to published papers and conference presentations.
+      * Played a key role in grant writing and research proposals, helping secure funding for ongoing and future projects.
 
 Skills
 ======
