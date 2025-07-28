@@ -12,10 +12,10 @@ Before joining Virginia Tech, I earned both my M.Sc. and B.Sc. in Computer Scien
 
 Specific research interests include:
 
-Cross-modal retrieval across images, text, video, and audio
+* Cross-modal retrieval across images, text, video, and audio
 
-Learning diverse and semantically meaningful embeddings for multimodal alignment
+* Learning diverse and semantically meaningful embeddings for multimodal alignment
 
-Structured information extraction and representation from multimodal data
+* Structured information extraction and representation from multimodal data
 
-Knowledge structures and reasoning in vision-language models
+* Knowledge structures and reasoning in vision-language models
