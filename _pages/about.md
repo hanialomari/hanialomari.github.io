@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Hani Alomari's"
+title: "Hi, I'm Hani"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Hi, I'm Hani.
-
 I build retrieval that understands **images, text, video, and sound** -- not just the literal match. I'm a Ph.D. researcher at Virginia Tech's Sanghani Center working on multimodal learning with [Dr. Chris Thomas](https://people.cs.vt.edu/chris/). My work combines vision-language models, retrieval-augmented generation (RAG), and ranking systems to surface the meaningful, often unexpected connections across modalities.
 
 ### What I focus on
@@ -28,4 +26,5 @@ We live in a semantically diverse era where creativity, safety, and accessibilit
 - **NeurIPS 2024** & **MAR @ NeurIPS 2024** -- JourneyBench and ENTER (Event-Based Interpretable Reasoning for VideoQA).  
 - **FGVC @ CVPR 2025** -- Real-Time Ultra-Fine-Grained Surgical Instrument Classification (hospital deployment in progress).
 
-If you're building diversity-aware retrieval, interpretable VLMs, or new evaluation benchmarks, let's talk: [Website](https://hanialomari.github.io/) | [Scholar](https://scholar.google.com/citations?user=Ft_qTcwAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/hanialomari/) | [Email](mailto:hani@vt.edu)
+If you're building diversity-aware retrieval, interpretable VLMs, or new evaluation benchmarks, let's talk: 
+[Website](https://hanialomari.github.io/) | [Scholar](https://scholar.google.com/citations?user=Ft_qTcwAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/hanialomari/) | [Email](mailto:hani@vt.edu)
