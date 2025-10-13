@@ -26,5 +26,4 @@ We live in a semantically diverse era where creativity, safety, and accessibilit
 - **NeurIPS 2024** & **MAR @ NeurIPS 2024** -- JourneyBench and ENTER (Event-Based Interpretable Reasoning for VideoQA).  
 - **FGVC @ CVPR 2025** -- Real-Time Ultra-Fine-Grained Surgical Instrument Classification (hospital deployment in progress).
 
-If you're building diversity-aware retrieval, interpretable VLMs, or new evaluation benchmarks, let's talk: 
-[Website](https://hanialomari.github.io/) | [Scholar](https://scholar.google.com/citations?user=Ft_qTcwAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/hanialomari/) | [Email](mailto:hani@vt.edu)
+If you're building diversity-aware retrieval, interpretable VLMs, or new evaluation benchmarks, let's talk ^^ 
