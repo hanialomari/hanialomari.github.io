@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I build retrieval that understands **images, text, video, and sound** -- not just the literal match. I'm a Ph.D. researcher at Virginia Tech's Sanghani Center working on multimodal learning with [Dr. Chris Thomas](https://people.cs.vt.edu/chris/). My work combines vision-language models, retrieval-augmented generation (RAG), and ranking systems to surface the meaningful, often unexpected connections across modalities.
+I build retrieval that understands **images, text, video, and sound** -- not just the literal match. I'm a Ph.D. researcher at Virginia Tech's Sanghani Center working on multimodal learning with [Dr. Chris Thomas](https://people.cs.vt.edu/chris/). My work combines vision-language models, retrieval-augmented generation, and ranking systems to surface the meaningful, often unexpected connections across modalities.
 
 ### What I focus on
 - **Multi-prompt embeddings** that generate many small "views" of meaning, so search stays rich, fair, and resilient against collapse.  
