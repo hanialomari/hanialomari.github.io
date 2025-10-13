@@ -9,28 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
-You can also find my articles on <u><a href="{{https://scholar.google.com/citations?user=Ft_qTcwAAAAJ&hl=en}}">my Google Scholar profile</a>.</u>
+You can also find my articles on <u><a href="https://scholar.google.com/citations?user=Ft_qTcwAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
+## Under Review
+- Md Atabuzzaman, **Hani Alomari**, Chris Thomas. "Bias and Robustness of Large Vision-Language Models in Multiple-Choice Reasoning." *ACL Rolling Review (Oct 2026)*.  
+- Hammad Ayyubi, Junzhang Liu, Ali Asgarov, Zaber Ibn Abdul Hakim, Najibul Haque Sarker, Zhecan Wang, Chia-Wei Tang, **Hani Alomari**, et al. "ENTER (v2): Event-Based Interpretable Reasoning for VideoQA." *AAAI 2026*.
 
-Conference Papers
-======
-1. Zhecan Wang, Junzhang Liu, Chia-Wei Tang, **Hani Alomari**, Anushka Sivakumar, Rui Sun, Wenhao Li, Md. Atabuzzaman, Hammad Ayyubi, Haoxuan You, Alvi Ishmam, Kai-Wei Chang, Shih-Fu Chang, Chris Thomas. ["JourneyBench: A Challenging One-Stop Vision-Language Understanding Benchmark of Generated Images"](https://journeybench.github.io/), Neurips2024-**(Under-Review)**
+## Conference Papers
+- **Hani Alomari**, Anushka Sivakumar, Andrew Zhang, Chris Thomas. "Maximal Matching Matters: Preventing Representation Collapse for Robust Cross-Modal Retrieval." *ACL 2025 (Main)*. [paper](https://aclanthology.org/2025.acl-long.1533.pdf)  
+- Md Atabuzzaman, Gino DiMatteo, **Hani Alomari**, et al. "Real-Time Ultra-Fine-Grained Surgical Instrument Classification." *FGVC Workshop @ CVPR 2025*. [paper](https://openaccess.thecvf.com/content/CVPR2025W/FGVC/papers/Atabuzzaman_Real-Time_Ultra-Fine-Grained_Surgical_Instrument_Classification_CVPRW_2025_paper.pdf)  
+- Zhecan Wang, Junzhang Liu, Chia-Wei Tang, **Hani Alomari**, et al. "JourneyBench: A Challenging One-Stop Vision-Language Understanding Benchmark of Generated Images." *NeurIPS 2024*. [paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/734abb86d3caa949f44da8a093717f61-Paper-Datasets_and_Benchmarks_Track.pdf)
 
-2. **Hani Al-Omari**, Malak A. Abdullah, and Samira Shaikh. "[Emodet2: Emotion detection in english textual dialogue using bert and bilstm models.](https://www.researchgate.net/profile/Malak-Abdullah/publication/340968874_EmoDet2_Emotion_Detection_in_English_Textual_Dialogue_using_BERT_and_BiLSTM_Models/links/5ea8b552a6fdcc70509769db/EmoDet2-Emotion-Detection-in-English-Textual-Dialogue-using-BERT-and-BiLSTM-Models.pdf)" 2020 11th International Conference on Information and Communication Systems (ICICS). IEEE, 2020.
+## Workshop Papers
+- Hammad Ayyubi, Junzhang Liu, Ali Asgarov, Zaber Ibn Abdul Hakim, Najibul Haque Sarker, Zhecan Wang, Chia-Wei Tang, **Hani Alomari**, et al. "ENTER: Event-Based Interpretable Reasoning for VideoQA." *MAR Workshop, NeurIPS 2024 (Spotlight)*. [paper](https://arxiv.org/abs/2501.14194)  
+- **Hani Al-Omari**, Isra'a AbedulNabi, Rehab Duwairi. "DLJUST at SemEval-2021 Task 7: Hahackathon--Linking Humor and Offense." *SemEval 2021*. [paper](https://aclanthology.org/2021.semeval-1.155.pdf)  
+- **Hani Al-Omari**, Malak Abdullah, Ola AlTiti, Samira Shaikh. "JUSTDeep at NLP4IF 2019 Task 1: Propaganda Detection Using Ensemble Deep Learning Models." *NLP4IF 2019*. [paper](https://aclanthology.org/D19-5016/)  
+- **Hani Al-Omari**, Malak Abdullah, Nabeel Bassam. "EmoDet at SemEval-2019 Task 3: Emotion Detection in Text Using Deep Learning." *SemEval 2019*. [paper](https://aclanthology.org/S19-2032.pdf)
 
-3. Ayat Abedalla, Ali Fadel, Ibraheem Tuffaha, **Hani Al-Omari**, Mohammad Omari, Malak Abdullah, and Mahmoud Al-Ayyoub. "[MTRecS-DLT: multi-modal transport recommender system using deep learning and tree models.](https://www.researchgate.net/profile/Ali-Fadel-4/publication/337985716_MTRecS-DLT_Multi-Modal_Transport_Recommender_System_using_Deep_Learning_and_Tree_Models/links/5e7924b84585158bd501afe2/MTRecS-DLT-Multi-Modal-Transport-Recommender-System-using-Deep-Learning-and-Tree-Models.pdf)" In 2019 Sixth International Conference on Social Networks Analysis, Management and Security (SNAMS), pp. 274-278. IEEE, 2019.
+## Journal Articles
+- **Hani Alomari**, Rehab Duwairi. "So2al-wa-Gwab: A New Arabic Question-Answering Dataset Trained on Answer Extraction Models." *ACM Transactions on Asian and Low-Resource Language Information Processing*, 22(8), 2023. [paper](https://dl.acm.org/doi/10.1145/3605550)
 
-
-Workshop Papers
-======
-1. **Hani Al-Omari**, Isra’a AbedulNabi, and Rehab Duwairi. "[DLJUST at SemEval-2021 Task 7: Hahackathon: Linking Humor and Offense.](https://aclanthology.org/2021.semeval-1.155.pdf)" Proceedings of the 15th International Workshop on Semantic Evaluation (SemEval-2021). 2021.
-
-2. **Hani Al-Omari**, Isra’a AbedulNabi, and Rehab Duwairi. "[DLJUST at SemEval-2021 Task 7: Hahackathon: Linking Humor and Offense.](https://aclanthology.org/2021.semeval-1.155.pdf)" Proceedings of the 15th International Workshop on Semantic Evaluation (SemEval-2021). 2021.
-
-3. **Hani Al-Omari**, Malak Abdullah, Ola AlTiti, and Samira Shaikh. "[JUSTDeep at NLP4IF 2019 task 1: Propaganda detection using ensemble deep learning models.](https://aclanthology.org/D19-5016.pdf)" In Proceedings of the Second Workshop on Natural Language Processing for Internet Freedom: Censorship, Disinformation, and Propaganda, pp. 113-118. 2019.
-
-4. **Hani Al-Omari**, Malak Abdullah, and Nabeel Bassam. "[Emodet at semeval-2019 task 3: Emotion detection in text using deep learning.](https://aclanthology.org/S19-2032.pdf)" In Proceedings of the 13th International Workshop on Semantic Evaluation, pp. 200-204. 2019.
-
-Journal Papers
-======
-1. **Hani Al-Omari**, and Rehab Duwairi. ["So2al-wa-Gwab: A New Arabic Question-Answering Dataset Trained on Answer Extraction Models."](https://dl.acm.org/doi/pdf/10.1145/3605550?casa_token=hQX5a7apbVwAAAAA:96PHwBbIcfZxMiwv18eu_tUVP1yiZva8jU95aHzOzvQ4cCbWncFfF6Edse0E7hPcls5qWbwvwtBAnw) ACM Transactions on Asian and Low-Resource Language Information Processing 22.8 (2023): 1-21.
+## Earlier Conference Papers
+- **Hani Al-Omari**, Malak A. Abdullah, Samira Shaikh. "EmoDet2: Emotion Detection in English Textual Dialogue Using BERT and BiLSTM Models." *ICICS 2020 (IEEE)*. [paper](https://www.researchgate.net/profile/Malak-Abdullah/publication/340968874_EmoDet2_Emotion_Detection_in_English_Textual_Dialogue_using_BERT_and_BiLSTM_Models/links/5ea8b552a6fdcc70509769db/EmoDet2-Emotion-Detection-in-English-Textual-Dialogue-using-BERT-and-BiLSTM-Models.pdf)  
+- Ayat Abedalla, Ali Fadel, Ibraheem Tuffaha, **Hani Al-Omari**, et al. "MTRecS-DLT: Multi-Modal Transport Recommender System Using Deep Learning and Tree Models." *SNAMS 2019 (IEEE)*. [paper](https://ieeexplore.ieee.org/document/8931864)

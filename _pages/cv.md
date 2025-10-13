@@ -9,108 +9,53 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D. in Computer Science, Virginia Polytechnic Institute and State University, 2023 - (ongoing)
-  * GPA: 4.0/4.0
-    * [Transcript](https://drive.google.com/file/d/1DMaNACtwJKgppGwDyo0A2ifBlGWIczoU/view?usp=sharing)
-  * Passed the PhD qualifying process on January 19, 2024.
-* M.S. in Computer Information System, Jordan University of Science and Technology, 2020 - 2022
-  * GPA: 4.26/4.3
-    * [Transcript](https://drive.google.com/file/d/1H1aWRGRLNupqk4io1L7nP1t1O0T4I1rp/view?usp=sharing)
-* B.S. in Computer Science, Jordan University of Science and Technology, 2016 - 2020
-  * GPA: 4.04/4.2 (Rank First)
-    * [Transcript & Ranking](https://drive.google.com/file/d/1uE6p6oAQCDFjXBeMEBBbrBJi3Cn_RfFC/view?usp=sharing)
+## Research Statement
+My work lies at the intersection of computer vision and natural language processing, with primary focus on multimodal learning and vision-language models. I develop diverse, semantically aligned representations for cross-modal retrieval across image, text, video, and audio using multi-embedding strategies to capture non-literal and abstract relationships. I work on structured knowledge and grounded reasoning for interpretable vision-language models, supported by new benchmarks and evaluation pipelines. This research has led to publications at top-tier venues such as ACL 2025.
 
-Research and Teaching Experience
-======
+## Education
+- **Virginia Tech**, Ph.D. Computer Science (Jan 2023 -- Jan 2028, expected)  
+  Advisor: Dr. Chris Thomas | GPA: 4.00/4.00
+- **Jordan University of Science and Technology**, M.S. Data Science (Feb 2020 -- Jun 2022)  
+  Advisor: Prof. Rehab Duwairi | GPA: 4.26/4.30
+- **Jordan University of Science and Technology**, B.S. Computer Science (Feb 2016 -- Jan 2020)  
+  Advisor: Dr. Malak Abdullah | GPA: 4.04/4.20 (Ranked 1st of 62)
 
-* Virginia Tech
-  * March 2023 - (Present): Graduate Research Assistant
-    * Leading two projects focused on cross-modal information retrieval across diverse modalities (e.g., image, text, video, audio) aimed at enhancing embedding representations for capturing non-literal and nuanced connections between modalities.
-      * Developed advanced cross-modal representations that effectively preserve both semantic richness and modality-specific details, enabling more accurate retrieval and understanding across different data types.
-      * Designed and implemented novel model architectures and loss functions to promote semantic diversity in representations, preventing redundancy and ensuring each modality maintains its unique characteristics while facilitating cross-modal alignment.
-    * Participating in a project related to long range multimodal event understanding using different modalities.
-    * Collaborated on a hospital project utilizing state-of-the-art deep learning models for image classification across various medical tasks.
-      * Contributed to the development and fine-tuning of deep learning architectures to enhance accuracy and reliability in medical imaging tasks.
-    * Participated in a pioneering project to create a new benchmark, [JourneyBench](https://journeybench.github.io/), designed to evaluate models' fine-grained multimodal reasoning abilities across five distinct tasks.
-      * Conducted benchmarking of state-of-the-art models across different tasks, specifically focusing on leveraging large language models (LLMs) for multiple-choice question answering (MCQA) problems.
-      * Assisted with dataset annotation and contributed to the design of key figures for the research paper, ensuring clear visual representation of the benchmark's capabilities and findings.
-    
-  * February 2023 - (Present): Graduate Teaching Assistant
-    * Assisted the instructor in planning and delivering course material for undergraduate computer science courses, including lectures, labs, and discussion sessions.
-    * Developed and graded assignments, exams, and lab exercises, providing constructive feedback to students to help them improve their understanding of key concepts.
-    * Supervised and mentored a diverse group of students during office hours and lab sessions, offering personalized support to enhance their learning experience and address individual challenges.
-    * Collaborated with faculty members to integrate new teaching methods and technologies, such as interactive coding platforms and virtual labs, to enhance student engagement and learning outcomes.
-    * Organized and led supplemental instruction sessions for students struggling with core topics, fostering a collaborative learning environment and encouraging peer-to-peer learning.
+## Publications
+See the [publications page](/publications/) for the complete list and links.
 
-* Jordan University of Science and Technology
-  * June 2019 - September 2019: Research Assistant Internship
-    * Engaged in competitive research projects such as NLP4IF 2019 and KDD Cup 2019, focusing on building and refining deep learning models for natural language processing and data mining tasks.
-      * Developed and optimized various deep learning architectures, experimenting with novel techniques to enhance model performance on large datasets.
-      * Actively participated in debugging and troubleshooting model issues, collaborating with team members to identify bottlenecks and improve model efficiency and accuracy.
+## Research Experience
+- **Research Assistant**, Virginia Tech (Mar 2023 -- Present)  
+  - Led diversity-aware image-text retrieval using maximal matching objectives and multi-embedding strategies, improving performance by up to 7.1% and resulting in an ACL 2025 publication.  
+  - Built a diversification pipeline that generates facet-specific captions with vision-language models, expanding beyond COCO and Flickr30k coverage.  
+  - Leading generative room-geometry work that conditions on room-impulse responses (RIRs) to reconstruct layouts from line-segment representations.  
+  - Collaborated with Columbia University on ENTER and JourneyBench, contributing modeling, annotation, and evaluation for NeurIPS 2024 publications.  
+  - Supported hospital deployment of a real-time, multi-view surgical instrument classifier covering 95 instrument types with high accuracy and SUS 81.7.
+- **Research Assistant**, Jordan University of Science and Technology (Feb 2020 -- Nov 2022)  
+  - Created So2al-wa-Gwab, a 10K-question Arabic QA dataset with scripted scraping, annotation workflow design, and three-stage quality control.  
+  - Benchmarked span-extraction models across seven Arabic QA datasets using EM and F1, demonstrating transformer gains over baselines.  
+  - Led an Arabic humor detection project with end-to-end NLP pipelines and ranked 7/45 (top ~15%) in shared-task competition results.  
+  - Conducted a systematic literature review on Arabic QA extraction to highlight translation dependencies and inform dataset design.
+- **Research Assistant (Intern)**, Jordan University of Science and Technology (Jun 2019 -- Aug 2019)  
+  - Built and debugged deep learning pipelines with TensorFlow and spaCy for propaganda and emotion detection, ranking 7/26 (top 27%) in the NLP4IF 2019 SLC track.
 
-  * February 2020 - January 2022: Graduate Teaching Assistant
-    * Assisted faculty in delivering lectures and conducting laboratory sessions for various courses in computer science and engineering, including programming, data structures, and algorithms.
-    * Designed and implemented interactive lab exercises and projects, encouraging hands-on learning and practical application of theoretical knowledge.
-    * Evaluated student performance through assessments, exams, and project evaluations, providing detailed feedback to facilitate improvement.
-    * Conducted review sessions and created study guides to help students prepare for exams, ensuring a comprehensive understanding of course material.
-    * Utilized online learning management systems to manage course materials, track student progress, and communicate effectively with students regarding their performance and areas for improvement.
+## Academic Contributions
+- **Graduate Teaching Assistant**: CS4804 Intro to AI (Spring 2025); CS5914 AI Tools in Software Development (Fall 2023, Spring 2024, Fall 2024); CS1064 Intro to Programming in Python (Summer I 2023, Summer I 2024); CS5824/ECE5424 Advanced Machine Learning (Spring 2023).  
+- **Reviewer**: WACV 2024; ACL Rolling Review (Feb 2025, May 2025).
 
-  * February 2020 - November 2022: Graduate Research Assistant
-    * Led and contributed to multiple research projects focusing on data analysis, machine learning, and deep learning, including the development of transformer models for natural language processing and computer vision tasks.
-      * Conducted extensive data gathering and analysis to support research objectives, including designing and distributing questionnaires, preprocessing datasets, and performing statistical analysis.
-      * Developed and implemented machine learning and deep learning models, including transformers, to address various research questions, optimizing model performance through rigorous experimentation and hyperparameter tuning.
-      * Collaborated with cross-functional teams to integrate findings into larger research initiatives, contributing to published papers and conference presentations.
-      * Played a key role in grant writing and research proposals, helping secure funding for ongoing and future projects.
+## Honors & Awards
+- Sanghani Center Travel Fund -- $750, Virginia Tech (2025)  
+- CS Department Travel Fund -- $750, Virginia Tech (2025)  
+- GPSS Travel Fund Grant -- $500, Virginia Tech Graduate School (2025)  
+- Outstanding Graduate Student Award -- full scholarship for M.S., JUST (2020-2022)  
+- Outstanding Undergraduate Student Award -- ranked #1 of 62, multiple Honors List mentions (2020)
 
-Teaching
-======
-  * Virginia Tech: 
-    *   CS-5824/ECE-5424 Advanced Machine Learning by [Dr. Ming Jin](http://www.jinming.tech/)
-    *   CS1064 Introduction to Programming in Python by [Dr. John Wenskovitch](https://sanghani.cs.vt.edu/person/john-wenskovitch/)
-    *   CS5914-AI Tools in Software Development by [Dr. Steven Atkinson](https://www.linkedin.com/in/satkinson/)
+## Conferences & Presentations
+- **ACL 2025 -- 63rd Annual Meeting of the Association for Computational Linguistics**, Vienna, Austria (Jul 2025)  
+  Poster: "Maximal Matching Matters: Preventing Representation Collapse for Robust Cross-Modal Retrieval."
 
-  * Jordan University of Science and Technology: 
-    * 	CIs201: INTRODUCTION TO WEB DESIGN 
-    *   CIs724: STRUCTURE AND APPLICATIONS OF HEALTH INFORMATION SYSTEMS
-    *   CIs733: COMPUTATIONAL LINGUISTICS
-    *   CIs735: DEEP LEARNING
-
-
-Skills
-======
-* Machine Learning: Deep Learning, Computer Vision, NLP, and Data analysis.
-* Generative AI Solutions Architect (Large Language Models): Building different chatbots trained on enterprise data using open-sourced LLMs (Hugging Face) or OpenAI’s GPT models.
-* Programming: Python, Java, R, C++, Visual Basic, HTML, Android
-* Strong analytical and problem-solving skills with a critical and creative mindset.
-* Excellent communication and interpersonal skills for effective teamwork and stakeholder relationships.
-* Languages: English, Arabic (Native)
-
-Software
-======
-* Tableau
-* Octave
-* MATLAB
-* Android Studio
-* Jupyter notebook
-* Operating Systems: Mac, Windows, Linux
-
-
-References
-======
-* [Dr. Chris Thomas](https://people.cs.vt.edu/chris/)
-  * 378 Data and Decision Sciences Building, 727 Prices Fork Rd, Blacksburg, VA 24060
-  * Email: Chris@cs.vt.edu
-
-* [Prof. Rehab Duwairi](https://www.just.edu.jo/~rehab/)
-  * Jordan University of Science and Technology, IRBID, JORDAN
-  * Email: rehab@just.edu.jo
-
-* [Dr. Malak Abdullah](https://sites.google.com/view/malak-abdullah )
-  * Jordan University of Science and Technology, IRBID, JORDAN
-  * Email: mabdullah@just.edu.jo
-
-* [Prof. Amer Al-badarneh](https://www.linkedin.com/in/amer-al-badarneh/?originalSubdomain=jo )
-  * Jordan University of Science and Technology, IRBID, JORDAN
-  * Email: mabdullah@just.edu.jo
+## Technical Skills
+- **Programming**: Python, C++, Java, Bash, LaTeX, CSS, SQL  
+- **ML Frameworks**: PyTorch, TensorFlow, Transformers, scikit-learn, Keras  
+- **Data Handling**: NumPy, Pandas, spaCy, NLTK, seaborn, matplotlib  
+- **Tools**: Conda, Git, Weights & Biases, Docker  
+- **Languages**: English, Arabic

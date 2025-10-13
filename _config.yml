@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hani"
+  name             : "Hani Alomari"
   avatar           : "pic1.jpg"
-  bio              : "Expert in cross-modal information retrieval and multimodal machine learning."
+  bio              : "Ph.D. researcher at Virginia Tech building diversity-aware multimodal retrieval and vision-language systems."
   location         : "Blacksburg, VA"
-  employer         :  
+  employer         : "Virginia Tech"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Ft_qTcwAAAAJ&hl=en"
   email            : "hani@vt.edu"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "hanialomari/"
+  github           : "hanialomari"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "hani-al-omari-50727289/"
+  linkedin         : "hanialomari"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :

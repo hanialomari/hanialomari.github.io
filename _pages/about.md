@@ -6,16 +6,26 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a third-year Ph.D. student in Computer Science at Virginia Tech, affiliated with the Sanghani Center for Artificial Intelligence and Data Analytics. I work at the intersection of computer vision and natural language processing, with a focus on multimodal learning and vision-language models. My research centers on developing robust, semantically aligned representations across modalities to support cross-modal retrieval, reasoning, and interpretability. Under the guidance of [Dr. Chris Thomas](https://people.cs.vt.edu/chris/), I design embedding models and architectures that capture nuanced, non-literal relationships while preserving modality-specific details and promoting semantic diversity.
+Hi, I'm Hani.
 
-Before joining Virginia Tech, I earned both my M.Sc. and B.Sc. in Computer Science from Jordan University of Science and Technology. I have collaborated with [Prof. Rehab M. Duwairi](https://www.just.edu.jo/~rehab/) and [Dr. Malak A. Abdullah](https://sites.google.com/view/malak-abdullah) on projects involving information retrieval, emotion classification, and propaganda detection. I have also contributed to deep learning research for medical imaging tasks.
+I build retrieval that understands **images, text, video, and sound** -- not just the literal match. I'm a Ph.D. researcher at Virginia Tech's Sanghani Center working on multimodal learning with [Dr. Chris Thomas](https://people.cs.vt.edu/chris/). My work combines vision-language models, retrieval-augmented generation (RAG), and ranking systems to surface the meaningful, often unexpected connections across modalities.
 
-Specific research interests include:
+### What I focus on
+- **Multi-prompt embeddings** that generate many small "views" of meaning, so search stays rich, fair, and resilient against collapse.  
+- **Two-stage retrieval pipelines** that pair lightweight retrievers with cross-modal rerankers and VLM "readers" for grounded reasoning.  
+- **Diversity-aware retrieval** that captures literal, figurative, emotional, abstract, and cultural cues rather than a single one-size vector.
 
-* Cross-modal retrieval across images, text, video, and audio
+### Why it matters
+We live in a semantically diverse era where creativity, safety, and accessibility depend on bridging visual, textual, and auditory understanding. Multimodal systems must retrieve more than the "closest" item--they must retrieve what matters. My research builds new objectives, evaluation pipelines, and datasets so retrieval can support idioms, metaphors, cultural nuance, and underrepresented perspectives.
 
-* Learning diverse and semantically meaningful embeddings for multimodal alignment
+### Now
+- Training a VLM-based retriever with a cross-modal reranker, and multi-prompt-embedding based to guide the diversity.   
+- Building a RAG workflow that treats the VLM as a "reader" and keeps factual grounding.  
+- Exploring room-impulse responses (RIRs) for spatial cues in generative scene understanding.
 
-* Structured information extraction and representation from multimodal data
+### Recent highlights
+- **ACL 2025 (Main)** -- Maximal Matching Matters: Preventing Representation Collapse for Robust Cross-Modal Retrieval.  
+- **NeurIPS 2024** & **MAR @ NeurIPS 2024** -- JourneyBench and ENTER (Event-Based Interpretable Reasoning for VideoQA).  
+- **FGVC @ CVPR 2025** -- Real-Time Ultra-Fine-Grained Surgical Instrument Classification (hospital deployment in progress).
 
-* Knowledge structures and reasoning in vision-language models
+If you're building diversity-aware retrieval, interpretable VLMs, or new evaluation benchmarks, let's talk: [Website](https://hanialomari.github.io/) | [Scholar](https://scholar.google.com/citations?user=Ft_qTcwAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/hanialomari/) | [Email](mailto:hani@vt.edu)
