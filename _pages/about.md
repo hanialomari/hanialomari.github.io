@@ -24,6 +24,6 @@ We live in a semantically diverse era where creativity, safety, and accessibilit
 ### Recent highlights
 - **ACL 2025 (Main)** -- Maximal Matching Matters: Preventing Representation Collapse for Robust Cross-Modal Retrieval.  
 - **NeurIPS 2024** & **MAR @ NeurIPS 2024** -- JourneyBench and ENTER (Event-Based Interpretable Reasoning for VideoQA).  
-- **FGVC @ CVPR 2025** -- Real-Time Ultra-Fine-Grained Surgical Instrument Classification (hospital deployment in progress).
+- **FGVC @ CVPR 2025** -- Real-Time Ultra-Fine-Grained Surgical Instrument Classification.
 
 If you're building diversity-aware retrieval, interpretable VLMs, or new evaluation benchmarks, let's talk ^^ 
