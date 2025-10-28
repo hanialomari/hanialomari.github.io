@@ -1,0 +1,194 @@
+/* Custom styles for enhanced professional appearance */
+
+/* Improve readability and spacing for main content */
+.page__content {
+  h2 {
+    color: #2c3e50;
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 0.5em;
+    margin-top: 1.5em;
+    margin-bottom: 1em;
+  }
+
+  h3 {
+    color: #34495e;
+    margin-top: 1.2em;
+    margin-bottom: 0.8em;
+  }
+
+  /* Make horizontal rules more subtle */
+  hr {
+    margin: 2em 0;
+    border: 0;
+    border-top: 2px solid #e8e8e8;
+  }
+
+  /* Enhance list styling */
+  ul, ol {
+    margin-bottom: 1em;
+
+    li {
+      margin-bottom: 0.5em;
+      line-height: 1.8;
+    }
+  }
+
+  /* Highlight important links and CTAs */
+  a {
+    color: #2980b9;
+    text-decoration: none;
+    transition: color 0.2s ease;
+
+    &:hover {
+      color: #3498db;
+      text-decoration: underline;
+    }
+  }
+
+  /* Bold text styling for emphasis */
+  strong {
+    color: #2c3e50;
+    font-weight: 600;
+  }
+
+  /* Code and technical terms */
+  code {
+    background: #f5f5f5;
+    padding: 0.2em 0.4em;
+    border-radius: 3px;
+    font-size: 0.9em;
+  }
+}
+
+/* Enhance the sidebar author profile */
+.author__avatar {
+  img {
+    border: 3px solid #3498db;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  }
+}
+
+.author__bio {
+  margin-top: 1em;
+  font-size: 0.95em;
+  line-height: 1.6;
+}
+
+/* Make social links more prominent */
+.author__urls {
+  .fas, .fab, .ai {
+    color: #3498db;
+  }
+}
+
+/* Portfolio and archive styling improvements */
+.archive__item {
+  border-bottom: 1px solid #e8e8e8;
+  padding-bottom: 1.5em;
+  margin-bottom: 1.5em;
+
+  &:last-child {
+    border-bottom: none;
+  }
+}
+
+.archive__item-title {
+  font-size: 1.3em;
+  margin-bottom: 0.5em;
+
+  a {
+    color: #2c3e50;
+
+    &:hover {
+      color: #3498db;
+    }
+  }
+}
+
+.archive__item-excerpt {
+  font-size: 0.95em;
+  line-height: 1.7;
+  color: #555;
+}
+
+/* Call-to-action sections styling */
+.page__content {
+  section {
+    margin-bottom: 2em;
+  }
+
+  /* Style for "Open to Opportunities" section */
+  h2:contains("Open to Opportunities"),
+  h2:contains("Let's Connect") {
+    color: #27ae60;
+    border-bottom-color: #27ae60;
+  }
+}
+
+/* Improve table styling in CV */
+.page__content table {
+  border-collapse: collapse;
+  margin: 1.5em 0;
+
+  th, td {
+    padding: 0.75em;
+    border: 1px solid #ddd;
+  }
+
+  th {
+    background-color: #f8f9fa;
+    font-weight: 600;
+    color: #2c3e50;
+  }
+
+  tr:hover {
+    background-color: #f8f9fa;
+  }
+}
+
+/* Mobile responsiveness improvements */
+@media (max-width: 768px) {
+  .page__content {
+    h2 {
+      font-size: 1.4em;
+    }
+
+    h3 {
+      font-size: 1.2em;
+    }
+  }
+}
+
+/* Add visual interest to navigation */
+.greedy-nav {
+  a {
+    transition: background-color 0.2s ease;
+
+    &:hover {
+      background-color: rgba(52, 152, 219, 0.1);
+    }
+  }
+}
+
+/* Enhance button styling */
+.btn {
+  transition: all 0.2s ease;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+  }
+}
+
+/* Print-friendly styling for CV */
+@media print {
+  .page__content {
+    h2 {
+      page-break-after: avoid;
+    }
+
+    .archive__item {
+      page-break-inside: avoid;
+    }
+  }
+}

@@ -9,45 +9,97 @@ redirect_from:
 
 {% include base_path %}
 
-## Research Statement
-My work lies at the intersection of computer vision and natural language processing, with primary focus on multimodal learning and vision-language models. I develop diverse, semantically aligned representations for cross-modal retrieval across image, text, video, and audio using multi-embedding strategies to capture non-literal and abstract relationships. I work on structured knowledge and grounded reasoning for interpretable vision-language models, supported by new benchmarks and evaluation pipelines. This research has led to publications at top-tier venues such as ACL 2025.
+## Open to Opportunities
+
+I am actively seeking **research internships** and **collaboration opportunities** in AI/ML, particularly in:
+- Multimodal AI and Vision-Language Models
+- Natural Language Processing and Computer Vision
+- Cross-Modal Retrieval and RAG Systems
+- Deep Learning and Neural Architecture Design
+
+**Available:** Summer 2025 and beyond
+**Contact:** [hani@vt.edu](mailto:hani@vt.edu) | [LinkedIn](https://linkedin.com/in/hanialomari) | [Google Scholar](https://scholar.google.com/citations?user=Ft_qTcwAAAAJ&hl=en)
+
+---
+
+## Research Summary
+I specialize in multimodal learning at the intersection of computer vision and natural language processing, with focus on vision-language models and cross-modal retrieval. My research develops diverse, semantically aligned representations using multi-embedding strategies to capture non-literal and abstract relationships across image, text, video, and audio. I work on structured knowledge extraction and grounded reasoning for interpretable VLMs, supported by novel benchmarks and evaluation frameworks. This work has resulted in publications at premier venues including **ACL 2025 (Main)**, **NeurIPS 2024**, and **CVPR 2025**.
 
 ## Education
-- **Virginia Tech**, Ph.D. Computer Science (Jan 2023 -- Jan 2028, expected)  
-  Advisor: Dr. Chris Thomas | GPA: 4.00/4.00
-- **Jordan University of Science and Technology**, M.S. Data Science (Feb 2020 -- Jun 2022)  
-  Advisor: Prof. Rehab Duwairi | GPA: 4.26/4.30
-- **Jordan University of Science and Technology**, B.S. Computer Science (Feb 2016 -- Jan 2020)  
-  Advisor: Dr. Malak Abdullah | GPA: 4.04/4.20 (Ranked 1st of 62)
+
+**Ph.D. in Computer Science** -- Virginia Tech (Jan 2023 -- Jan 2028, expected)
+- Advisor: Dr. Chris Thomas
+- Focus: Multimodal Learning, Vision-Language Models, Cross-Modal Retrieval
+- GPA: 4.00/4.00
+
+**M.S. in Data Science** -- Jordan University of Science and Technology (Feb 2020 -- Jun 2022)
+- Advisor: Prof. Rehab Duwairi
+- Focus: Natural Language Processing, Arabic QA Systems
+- GPA: 4.26/4.30
+- Award: Outstanding Graduate Student (Full Scholarship)
+
+**B.S. in Computer Science** -- Jordan University of Science and Technology (Feb 2016 -- Jan 2020)
+- Advisor: Dr. Malak Abdullah
+- GPA: 4.04/4.20 (Ranked 1st of 62)
+- Award: Outstanding Undergraduate Student
 
 ## Publications
 See the [publications page](/publications/) for the complete list and links.
 
 ## Research Experience
-- **Research Assistant**, Virginia Tech (Mar 2023 -- Present)  
-  - Led diversity-aware image-text retrieval using maximal matching objectives and multi-embedding strategies, improving performance by up to 7.1% and resulting in an ACL 2025 publication.  
-  - Built a diversification pipeline that generates facet-specific captions with vision-language models, expanding beyond COCO and Flickr30k coverage.  
-  - Leading generative room-geometry work that conditions on room-impulse responses (RIRs) to reconstruct layouts from line-segment representations.  
-  - Collaborated with Columbia University on ENTER and JourneyBench, contributing modeling, annotation, and evaluation for NeurIPS 2024 publications.  
-  - Supported hospital deployment of a real-time, multi-view surgical instrument classifier covering 95 instrument types with high accuracy and SUS 81.7.
-- **Research Assistant**, Jordan University of Science and Technology (Feb 2020 -- Nov 2022)  
-  - Created So2al-wa-Gwab, a 10K-question Arabic QA dataset with scripted scraping, annotation workflow design, and three-stage quality control.  
-  - Benchmarked span-extraction models across seven Arabic QA datasets using EM and F1, demonstrating transformer gains over baselines.  
-  - Led an Arabic humor detection project with end-to-end NLP pipelines and ranked 7/45 (top ~15%) in shared-task competition results.  
-  - Conducted a systematic literature review on Arabic QA extraction to highlight translation dependencies and inform dataset design.
-- **Research Assistant (Intern)**, Jordan University of Science and Technology (Jun 2019 -- Aug 2019)  
-  - Built and debugged deep learning pipelines with TensorFlow and spaCy for propaganda and emotion detection, ranking 7/26 (top 27%) in the NLP4IF 2019 SLC track.
+
+### Graduate Research Assistant -- Virginia Tech (Mar 2023 -- Present)
+**Advisor:** Dr. Chris Thomas | **Focus:** Multimodal Learning & Vision-Language Models
+
+**Key Achievements:**
+- **ACL 2025 Publication:** Led diversity-aware image-text retrieval research using maximal matching objectives and multi-embedding strategies, achieving **7.1% performance improvement**
+- **NeurIPS 2024 Publications:** Collaborated with Columbia University on ENTER and JourneyBench projects, contributing to modeling, annotation, and evaluation pipelines for interpretable VideoQA
+- **CVPR 2025 Publication:** Supported hospital deployment of real-time, multi-view surgical instrument classifier with **95 instrument types** and **SUS score 81.7**
+- Built diversification pipeline generating facet-specific captions with VLMs, expanding coverage beyond standard COCO and Flickr30k datasets
+- Leading generative room-geometry research conditioning on room-impulse responses (RIRs) for spatial audio-visual scene understanding
+
+**Technical Skills Applied:** PyTorch, Vision-Language Models, Cross-Modal Retrieval, RAG Systems, Python
+
+---
+
+### Graduate Research Assistant -- Jordan University of Science and Technology (Feb 2020 -- Nov 2022)
+**Advisor:** Prof. Rehab Duwairi | **Focus:** Arabic NLP & Question Answering
+
+**Key Achievements:**
+- Created **So2al-wa-Gwab**, a 10K-question Arabic QA dataset with automated scraping, annotation workflows, and three-stage quality control
+- Benchmarked span-extraction models across **7 Arabic QA datasets**, demonstrating transformer architecture advantages over traditional baselines
+- Led Arabic humor detection project, achieving **top 15% ranking (7/45)** in shared-task competition
+- Conducted systematic literature review on Arabic QA extraction, identifying translation dependencies and informing dataset design best practices
+
+**Technical Skills Applied:** BERT, Transformers, NLP Pipelines, Data Annotation, Arabic NLP
+
+---
+
+### Research Intern -- Jordan University of Science and Technology (Jun 2019 -- Aug 2019)
+**Advisor:** Dr. Malak Abdullah | **Focus:** Deep Learning for NLP Tasks
+
+**Key Achievements:**
+- Built deep learning pipelines with TensorFlow and spaCy for propaganda and emotion detection
+- Achieved **top 27% ranking (7/26)** in NLP4IF 2019 Sentence-Level Classification track
+- Developed end-to-end workflows for text classification and sentiment analysis
+
+**Technical Skills Applied:** TensorFlow, spaCy, Deep Learning, Text Classification
 
 ## Academic Contributions
 - **Graduate Teaching Assistant**: CS4804 Intro to AI (Spring 2025); CS5914 AI Tools in Software Development (Fall 2023, Spring 2024, Fall 2024); CS1064 Intro to Programming in Python (Summer I 2023, Summer I 2024); CS5824/ECE5424 Advanced Machine Learning (Spring 2023).  
 - **Reviewer**: WACV 2024; ACL Rolling Review (Feb 2025, May 2025).
 
 ## Honors & Awards
-- Sanghani Center Travel Fund -- $750, Virginia Tech (2025)  
-- CS Department Travel Fund -- $750, Virginia Tech (2025)  
-- GPSS Travel Fund Grant -- $500, Virginia Tech Graduate School (2025)  
-- Outstanding Graduate Student Award -- full scholarship for M.S., JUST (2020-2022)  
-- Outstanding Undergraduate Student Award -- ranked #1 of 62, multiple Honors List mentions (2020)
+
+**Virginia Tech** (2025)
+- Sanghani Center Travel Fund: $750
+- CS Department Travel Fund: $750
+- GPSS Travel Fund Grant: $500
+
+**Jordan University of Science and Technology**
+- Outstanding Graduate Student Award -- Full M.S. Scholarship (2020-2022)
+- Outstanding Undergraduate Student Award -- Ranked #1 of 62 students (2020)
+- Multiple Dean's Honors List mentions
 
 ## Conferences & Presentations
 - **ACL 2025 -- 63rd Annual Meeting of the Association for Computational Linguistics**, Vienna, Austria (Jul 2025)  
