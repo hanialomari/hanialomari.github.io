@@ -2,28 +2,142 @@
 permalink: /
 title: "Hi, I'm Hani"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
-I build retrieval that understands **images, text, video, and sound** -- not just the literal match. I'm a Ph.D. researcher at Virginia Tech's Sanghani Center working on multimodal learning with [Dr. Chris Thomas](https://people.cs.vt.edu/chris/). My work combines vision-language models, retrieval-augmented generation, and ranking systems to surface the meaningful, often unexpected connections across modalities.
 
-### What I focus on
-- **Multi-prompt embeddings** that generate many small "views" of meaning, so search stays rich, fair, and resilient against collapse.  
-- **Two-stage retrieval pipelines** that pair lightweight retrievers with cross-modal rerankers and VLM "readers" for grounded reasoning.  
-- **Diversity-aware retrieval** that captures literal, figurative, emotional, abstract, and cultural cues rather than a single one-size vector.
+<div class="hero-banner">
+  <div class="hero-content">
+    <p class="eyebrow">Multimodal Retrieval • VLMs • Diversity-Aware Search</p>
+    <h1>Building retrieval that understands images, text, video, and sound.</h1>
+    <p class="lead">I'm a Ph.D. researcher at Virginia Tech's Sanghani Center working with <a href="https://people.cs.vt.edu/chris/">Dr. Chris Thomas</a>. I design retrieval and RAG systems that surface meaningful, unexpected connections across modalities.</p>
+    <div class="hero-actions">
+      <a class="button button--primary" href="mailto:hanialomari@vt.edu">Let's collaborate</a>
+      <a class="button button--ghost" href="/publications/">View publications</a>
+    </div>
+    <div class="hero-chips">
+      <span>Multi-prompt embeddings</span>
+      <span>Cross-modal reranking</span>
+      <span>Diversity-aware evaluation</span>
+      <span>RAG with VLM readers</span>
+    </div>
+  </div>
+  <div class="hero-card">
+    <div class="hero-glow"></div>
+    <div class="hero-card__inner">
+      <p class="hero-label">Now</p>
+      <ul>
+        <li>Training a VLM-based retriever with a cross-modal reranker.</li>
+        <li>Building a RAG workflow that treats the VLM as a "reader" to keep grounding.</li>
+        <li>Exploring room-impulse responses (RIRs) for spatial cues in generative scene understanding.</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
-### Why it matters
-We live in a semantically diverse era where creativity, safety, and accessibility depend on bridging visual, textual, and auditory understanding. Multimodal systems must retrieve more than the "closest" item--they must retrieve what matters. My research builds new objectives, evaluation pipelines, and datasets so retrieval can support idioms, metaphors, cultural nuance, and underrepresented perspectives.
+<div class="section">
+  <div class="section-header">
+    <p class="eyebrow">Focus areas</p>
+    <h2>Designing resilient multimodal systems</h2>
+    <p>My work blends robust retrieval objectives, interpretable rerankers, and evaluation pipelines that celebrate nuance over a single "best" vector.</p>
+  </div>
+  <div class="pill-grid">
+    <div class="pill-card">
+      <h3>Multi-prompt embeddings</h3>
+      <p>Generating many small views of meaning to capture literal, figurative, emotional, abstract, and cultural cues.</p>
+    </div>
+    <div class="pill-card">
+      <h3>Two-stage retrieval</h3>
+      <p>Lightweight retrievers paired with cross-modal rerankers and VLM "readers" for grounded reasoning.</p>
+    </div>
+    <div class="pill-card">
+      <h3>Diversity-aware evaluation</h3>
+      <p>Metrics and datasets that reward semantic breadth and avoid representation collapse.</p>
+    </div>
+  </div>
+</div>
 
-### Now
-- Training a VLM-based retriever with a cross-modal reranker, and multi-prompt-embedding based to guide the diversity.   
-- Building a RAG workflow that treats the VLM as a "reader" and keeps factual grounding.  
-- Exploring room-impulse responses (RIRs) for spatial cues in generative scene understanding.
+<div class="section">
+  <div class="section-header">
+    <p class="eyebrow">Latest news</p>
+    <h2>Updates from the lab</h2>
+  </div>
+  <div class="news-timeline">
+    <div class="news-item">
+      <span class="news-date">Feb 2025</span>
+      <div>
+        <p class="news-title">Preparing camera-ready material for ACL 2025 (Main) — Maximal Matching Matters.</p>
+        <p class="news-detail">Adding new qualitative analyses on how diversity-aware prompts prevent cross-modal collapse.</p>
+      </div>
+    </div>
+    <div class="news-item">
+      <span class="news-date">Dec 2024</span>
+      <div>
+        <p class="news-title">NeurIPS 2024 & MAR spotlight for JourneyBench + ENTER.</p>
+        <p class="news-detail">Showcased interpretable video reasoning with retrieval-grounded event traces.</p>
+      </div>
+    </div>
+    <div class="news-item">
+      <span class="news-date">Oct 2024</span>
+      <div>
+        <p class="news-title">Under review: unified multimodal retriever with spatial audio cues.</p>
+        <p class="news-detail">New experiments on room-impulse responses to enrich generative scene understanding.</p>
+      </div>
+    </div>
+  </div>
+</div>
 
-### Recent highlights
-- **ACL 2025 (Main)** -- Maximal Matching Matters: Preventing Representation Collapse for Robust Cross-Modal Retrieval.  
-- **NeurIPS 2024** & **MAR @ NeurIPS 2024** -- JourneyBench and ENTER (Event-Based Interpretable Reasoning for VideoQA).  
-- **FGVC @ CVPR 2025** -- Real-Time Ultra-Fine-Grained Surgical Instrument Classification.
+<div class="section">
+  <div class="section-header">
+    <p class="eyebrow">Featured publications</p>
+    <h2>Latest papers</h2>
+    <p>Full list lives on the <a href="/publications/">publications page</a>. Here are the three freshest projects.</p>
+  </div>
+  <div class="publication-grid">
+    <article class="paper-card">
+      <div class="paper-thumb">Cover coming soon</div>
+      <div class="paper-meta">
+        <p class="paper-venue">ACL 2025 (Main)</p>
+        <h3>Maximal Matching Matters: Preventing Representation Collapse for Robust Cross-Modal Retrieval.</h3>
+        <p>Multi-prompt embeddings and diversity-aware reranking that keep retrieval balanced across modalities.</p>
+      </div>
+    </article>
+    <article class="paper-card">
+      <div class="paper-thumb">Placeholder</div>
+      <div class="paper-meta">
+        <p class="paper-venue">NeurIPS 2024 & MAR @ NeurIPS</p>
+        <h3>JourneyBench & ENTER: Event-Based Interpretable Reasoning for VideoQA.</h3>
+        <p>Benchmark and models that narrate video reasoning with transparent event traces.</p>
+      </div>
+    </article>
+    <article class="paper-card">
+      <div class="paper-thumb">Under review</div>
+      <div class="paper-meta">
+        <p class="paper-venue">Under Review (2025)</p>
+        <h3>Unified Multimodal Retriever with Spatial Audio Cues.</h3>
+        <p>Room-impulse-informed retrieval that grounds generative scene understanding with spatial awareness.</p>
+      </div>
+    </article>
+  </div>
+</div>
 
-If you're building diversity-aware retrieval, interpretable VLMs, or new evaluation benchmarks, let's talk ^^ 
+<div class="section section--split">
+  <div>
+    <p class="eyebrow">Collaborations</p>
+    <h2>Let's build meaningful retrieval</h2>
+    <p>I'm excited about research partnerships, internships, and consulting on multimodal retrieval, VLM interpretability, and evaluation. If you're building diversity-aware systems or new datasets, let's chat.</p>
+    <div class="hero-actions">
+      <a class="button button--primary" href="mailto:hanialomari@vt.edu">Email me</a>
+      <a class="button button--ghost" href="https://www.linkedin.com/in/hanialomari/">Connect on LinkedIn</a>
+    </div>
+  </div>
+  <div class="stat-card">
+    <p class="stat-eyebrow">Impact snapshots</p>
+    <ul>
+      <li><strong>3x</strong> top-tier venues in the last year (ACL, NeurIPS, FGVC).</li>
+      <li><strong>Multi-modal</strong> pipelines spanning images, text, video, and sound.</li>
+      <li><strong>Diversity-first</strong> retrieval objectives and metrics.</li>
+    </ul>
+  </div>
+</div>
